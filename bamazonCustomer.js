@@ -49,7 +49,7 @@
 						if (err) throw err;
 						else {
 							console.log('Thank you for your order!');
-							var total = product.price * product.stock_quantity;
+							var total = product.price * r.quantity;
 							console.log(`Your total is $${total}`);
 
 						}
