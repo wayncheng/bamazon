@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon MySQL Assignment for UCSD Bootcamp",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayncheng/bamazon.git"
+  },
+  "author": "wayne cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayncheng/bamazon/issues"
+  },
+  "homepage": "https://github.com/wayncheng/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0",
+    "mysql": "^2.13.0"
+  }
+}
